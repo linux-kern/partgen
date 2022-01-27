@@ -1,0 +1,26 @@
+[
+  {
+    "logicalname" : "/dev/vda",
+    "partitions" : [{
+      "id" : "",
+      "first_sector" : "",
+      "last_sector" : "+4T",
+      "filesystem" : ""
+    },
+    {
+      "id" : "",
+      "first_sector" : "",
+      "last_sector" : "",
+      "filesystem" : ""
+    }]
+  },
+  {
+    "logicalname" : "/dev/vdb",
+    "partitions" : [{
+      "id" : "",
+      "first_sector" : "",
+      "last_sector" : "+4T",
+      "filesystem" : ""
+    }]
+  }
+]
